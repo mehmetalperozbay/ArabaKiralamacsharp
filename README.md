@@ -1,2 +1,3 @@
-# ArabaKiralamacsharp
-C# İle Araba Kiralama Console App
+## PROJE YAPIM ASAMASINDA BITMEDI.
+
+## This project is not finished.
