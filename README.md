@@ -1,3 +1,3 @@
-## PROJE YAPIM ASAMASINDA BITMEDI.
+## PROJE YAPIM ASAMASINDA BITMEDI. Kod çok kirli temizlenecek.
 
-## This project is not finished.
+## This project still in progress and not finished. The code is not clean. Will be cleaned up.
