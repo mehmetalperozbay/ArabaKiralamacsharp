@@ -1,0 +1,4 @@
+TCKimlikNo: 22
+Ad: mehmet
+Soyad: alper
+DogumYili: 2009
